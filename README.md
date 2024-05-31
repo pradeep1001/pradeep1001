@@ -1,5 +1,10 @@
 ### Hi Developers 👋
 
+[YouTube](https://www.youtube.com/@ms.poonamchauhan743)
+[LinkedIn](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
+[Stack Overflow](https://stackoverflow.com/users/18828160/poonam-chauhan)
+[Portfolio Website](https://poonamchauhan229.github.io/Portfolio_Website/)
+
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)]
 (https://www.youtube.com/@ms.poonamchauhan743)
