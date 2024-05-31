@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
 [YouTube](https://www.youtube.com/@ms.poonamchauhan743)
-[LinkedIn](https://www.linkedin.com/in/pradeep-kumar-17680a177/)
-[Stack Overflow](https://stackoverflow.com/users/7699004/pradeep-kumar)
-[Portfolio Website](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![Linkedin Badge](https://img.shields.io/badge/-R_Praadeep_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-kumar-17680a177/)](https://www.linkedin.com/in/pradeep-kumar-17680a177/)
+[![Stack Overflow](https://img.shields.io/badge/-R_Praadeep_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://stackoverflow.com/users/7699004/pradeep-kumar/)]
 
 
 I'm
