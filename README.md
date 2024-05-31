@@ -1,18 +1,18 @@
 ### Hi Developers 👋
 
 [YouTube](https://www.youtube.com/@ms.poonamchauhan743)
-[LinkedIn](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
-[Stack Overflow](https://stackoverflow.com/users/18828160/poonam-chauhan)
+[LinkedIn](https://www.linkedin.com/in/pradeep-kumar-17680a177/)
+[Stack Overflow](https://stackoverflow.com/users/7699004/pradeep-kumar)
 [Portfolio Website](https://poonamchauhan229.github.io/Portfolio_Website/)
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)]
 (https://www.youtube.com/@ms.poonamchauhan743)
 [![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)]
-(https://www.linkedin.com/in/poonam-chauhan-64a97159/)
+square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-kumar-17680a177/)]
+(https://www.linkedin.com/in/pradeep-kumar-17680a177/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)]
-(https://stackoverflow.com/users/18828160/poonam-chauhan)
+(https://stackoverflow.com/users/7699004/pradeep-kumar)
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)]
 (https://poonamchauhan229.github.io/Portfolio_Website/)
 <!-- ## Hi there 👋 -->
