@@ -9,12 +9,12 @@ Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/G1KUMAR215/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pradeep1001/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=G1KUMAR215&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=pradeep1001&column=7"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@ Languages and Tools:
 
 
 <!--
-*G1KUMAR215/G1KUMAR215* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*pradeep1001/pradeep1001* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
